@@ -16,10 +16,10 @@ LightmapParameters:
   modellingTolerance: 0.01
   systemTag: -1
   edgeStitching: 1
-  blurRadius: 2
+  blurRadius: 3
   directLightQuality: 32
-  antiAliasingSamples: 4
+  antiAliasingSamples: 8
   bakedLightmapTag: -1
-  pushoff: 0.0001
+  pushoff: 0.011
   AOQuality: 256
   AOAntiAliasingSamples: 16
