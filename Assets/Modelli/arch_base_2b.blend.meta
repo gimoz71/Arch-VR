@@ -21,6 +21,13 @@ ModelImporter:
     100026: mura
     100028: porta
     100030: stipiti
+    100032: mura_001
+    100034: mura_002
+    100036: mura_003
+    100038: mura_004
+    100040: mura_005
+    100042: mura_006
+    100044: mura_007
     400000: //RootNode
     400002: BezierCurve
     400004: BezierCurve_007
@@ -37,6 +44,13 @@ ModelImporter:
     400026: mura
     400028: porta
     400030: stipiti
+    400032: mura_001
+    400034: mura_002
+    400036: mura_003
+    400038: mura_004
+    400040: mura_005
+    400042: mura_006
+    400044: mura_007
     2100000: unnamed
     2300000: BezierCurve
     2300002: BezierCurve_007
@@ -53,6 +67,13 @@ ModelImporter:
     2300024: mura
     2300026: porta
     2300028: stipiti
+    2300030: mura_001
+    2300032: mura_002
+    2300034: mura_003
+    2300036: mura_004
+    2300038: mura_005
+    2300040: mura_006
+    2300042: mura_007
     3300000: BezierCurve
     3300002: BezierCurve_007
     3300004: Component__Component006
@@ -68,6 +89,13 @@ ModelImporter:
     3300024: mura
     3300026: porta
     3300028: stipiti
+    3300030: mura_001
+    3300032: mura_002
+    3300034: mura_003
+    3300036: mura_004
+    3300038: mura_005
+    3300040: mura_006
+    3300042: mura_007
     4300000: BezierCurve_007
     4300002: Group_4_006_005
     4300004: Component__Component006_005
@@ -83,6 +111,13 @@ ModelImporter:
     4300024: porta
     4300026: maniglia
     4300028: mura
+    4300030: mura_003
+    4300032: mura_004
+    4300034: mura_002
+    4300036: mura_001
+    4300038: mura_007
+    4300040: mura_006
+    4300042: mura_005
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
@@ -112,16 +147,16 @@ ModelImporter:
     extraExposedTransformPaths: []
     extraUserProperties: []
     clipAnimations: []
-    isReadable: 1
+    isReadable: 0
   meshes:
     lODScreenPercentages: []
     globalScale: 1
-    meshCompression: 0
+    meshCompression: 2
     addColliders: 0
-    importVisibility: 1
-    importBlendShapes: 1
-    importCameras: 1
-    importLights: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
