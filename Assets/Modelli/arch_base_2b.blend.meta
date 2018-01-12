@@ -28,6 +28,14 @@ ModelImporter:
     100040: mura_005
     100042: mura_006
     100044: mura_007
+    100046: Cube
+    100048: Cube_001
+    100050: Cube_002
+    100052: Cube_003
+    100054: finestra_cucina
+    100056: mura_008
+    100058: mura_009
+    100060: Plane
     400000: //RootNode
     400002: BezierCurve
     400004: BezierCurve_007
@@ -51,6 +59,14 @@ ModelImporter:
     400040: mura_005
     400042: mura_006
     400044: mura_007
+    400046: Cube
+    400048: Cube_001
+    400050: Cube_002
+    400052: Cube_003
+    400054: finestra_cucina
+    400056: mura_008
+    400058: mura_009
+    400060: Plane
     2100000: unnamed
     2300000: BezierCurve
     2300002: BezierCurve_007
@@ -74,6 +90,14 @@ ModelImporter:
     2300038: mura_005
     2300040: mura_006
     2300042: mura_007
+    2300044: Cube
+    2300046: Cube_001
+    2300048: Cube_002
+    2300050: Cube_003
+    2300052: finestra_cucina
+    2300054: mura_008
+    2300056: mura_009
+    2300058: Plane
     3300000: BezierCurve
     3300002: BezierCurve_007
     3300004: Component__Component006
@@ -96,6 +120,14 @@ ModelImporter:
     3300038: mura_005
     3300040: mura_006
     3300042: mura_007
+    3300044: Cube
+    3300046: Cube_001
+    3300048: Cube_002
+    3300050: Cube_003
+    3300052: finestra_cucina
+    3300054: mura_008
+    3300056: mura_009
+    3300058: Plane
     4300000: BezierCurve_007
     4300002: Group_4_006_005
     4300004: Component__Component006_005
@@ -118,6 +150,14 @@ ModelImporter:
     4300038: mura_007
     4300040: mura_006
     4300042: mura_005
+    4300044: Cube_003
+    4300046: mura_009
+    4300048: mura_008
+    4300050: Cube_002
+    4300052: Cube_001
+    4300054: Cube
+    4300056: finestra_cucina
+    4300058: Plane
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
